@@ -13,6 +13,6 @@ export function manageFriends(state={
       ]
     }
     default:
-      return state;
+      return state
   }
 };
